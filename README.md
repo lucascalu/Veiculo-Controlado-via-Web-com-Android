@@ -36,7 +36,7 @@ Projeto de veículo controlado remotamente via Web usando  dispositivo Android e
 
 <h2> Considerações </h2>
 
-<p> Podem ser acrescentado comandos redundântes para maior confiabilidade ou ainda sensores e botões dentro do circuito para aumento da segurança do mesmo. </p>
+<p> Pode ser acrescentado comandos redundântes para maior confiabilidade ou ainda sensores e botões dentro do circuito para aumento da segurança do mesmo. </p>
 
 
 ![alt text](https://lh3.googleusercontent.com/8nwT1oyitY4nAh1zasfOCJzgsN-svQus2KDXhHGhMJrVarAdSu1AGPAyGULjb57ASJg=s180-rw)
