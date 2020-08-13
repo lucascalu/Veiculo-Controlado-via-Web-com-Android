@@ -11,7 +11,7 @@ Projeto de veículo controlado remotamente via Web usando  dispositivo Android e
 <h3> Cabo Otg </h3>
 <h3> Base para fixação das peças </h3>
 <h3> Shield com 2 reles NA para arduíno (Pode ser utilizado ponte H também) </h3>
-<h3> 2 Motores DC com rodas (poder ser utilizado a potencia de acordo com sua preferencia e possibilidade dentro do projeto)  </h3>
+<h3> 2 Motores DC com rodas (pode ser utilizado a potencia de acordo com sua preferencia e possibilidade dentro do projeto)  </h3>
 <h3> 1 Bateria(Capaz de suprir a necessidade dos motores) </h3>
 <h3> 1 Rodízio giratório(Capaz de alinhar adequadamente a altura do veiculo) </h3>
 <h3> 1 Mini protoboard para fixação de cabos no circuito ou PCB universal perfurada </h3>
